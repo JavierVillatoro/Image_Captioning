@@ -1,5 +1,37 @@
+# Ignore virtual environment
 my_env/
+venv/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
+*.env
+
+# Ignore specific Python scripts and images
 hello.py
 image_cap.py
 jim.jpg
 piano.jpeg
+
+# Ignore Jupyter Notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore cache directories
+.cache/
