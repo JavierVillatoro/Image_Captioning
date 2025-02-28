@@ -19,7 +19,7 @@ def caption_image(input_image: np.ndarray):
     raw_image = Image.fromarray(input_image).convert('RGB')
     
     # Process the image
-    text = "the image of"
+    text = "the image of" 
     inputs = processor(images=raw_image, text=text, return_tensors="pt")
     
     # Generate a caption for the image
