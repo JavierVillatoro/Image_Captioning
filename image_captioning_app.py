@@ -1,4 +1,3 @@
-#Import required libraries 
 import gradio as gr
 import numpy as np
 from PIL import Image
@@ -31,7 +30,7 @@ def caption_image(input_image: np.ndarray):
     return caption
 
 
-#Create web app interface
+# Create web app interface
 iface = gr.Interface(
     fn=caption_image,
     inputs=gr.Image(),
