@@ -1,0 +1,24 @@
+# Basic system libraries
+os
+glob
+
+# Image processing libraries
+pillow==10.2.0  # Recommended version of Pillow (PIL)
+
+# AI and image processing libraries
+transformers==4.37.0  # Hugging Face Transformers
+torch==2.2.0  # PyTorch, required for Transformers models
+torchvision==0.17.0  # PyTorch extension for image processing
+
+# Web interface with Gradio
+gradio==4.17.0  
+
+# HTTP request handling
+requests==2.31.0  
+
+# Web scraping libraries
+beautifulsoup4==4.12.3  # Web scraping with BeautifulSoup
+lxml==4.9.3  # Fast and efficient HTML/XML parser
+
+# Memory and numerical operations
+numpy==1.26.3
