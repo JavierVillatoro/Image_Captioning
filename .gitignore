@@ -25,9 +25,6 @@ image_cap.py
 jim.jpg
 piano.jpeg
 
-# Ignore Jupyter Notebook checkpoints (if using Jupyter)
-.ipynb_checkpoints/
-
 # Ignore temporary files
 *.tmp
 *.swp
