@@ -5,5 +5,5 @@ These projects use **Hugging Face's BLIP (Bootstrapping Language-Image Pretraini
 
 ## Image Captioning app
 
-![Earthworm Jim](C:\Users\franc\Desktop\IBM_GENERATIVE_AI\Building_Generative_AI_APP\Module1p\images\Image_Captioning.png)
+![Earthworm Jim](images/Image_Captioning.png)
 
