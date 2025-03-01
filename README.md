@@ -9,5 +9,11 @@ These projects use **Hugging Face's BLIP (Bootstrapping Language-Image Pretraini
 
 ## Automated URL captioning
 
+![Wikipedia_Granada](images/Wikipedia_Granada.png)
+![Captions](images/Captions.png)
+
 ## Local image organization
+
+![Local_files](images/Local_files.png)
+![Captions2](images/Captions2.png)
 
