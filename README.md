@@ -7,3 +7,7 @@ These projects use **Hugging Face's BLIP (Bootstrapping Language-Image Pretraini
 
 ![Earthworm Jim](images/Image_Captioning.png)
 
+## Automated URL captioning
+
+## Local image organization
+
