@@ -12,7 +12,7 @@ model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-capt
 # Define the image captioning function
 def caption_image(input_image: np.ndarray):
     """
-    Takes an input image and returns a caption
+    Takes an input image and returns a caption.
     """
     # Convert numpy array to PIL Image and convert to RGB
     raw_image = Image.fromarray(input_image).convert('RGB')
